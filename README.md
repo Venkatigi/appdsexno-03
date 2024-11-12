@@ -106,4 +106,3 @@ new.head()
 
 ### Result:
 Thus, the Implementation of the Recommendation System for the given dataset is completed successfully.<br>
-**Developed By: ROHIT JAIN D - 212222230120**
